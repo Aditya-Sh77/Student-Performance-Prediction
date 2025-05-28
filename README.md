@@ -77,6 +77,7 @@ To run this project locally:
 2. Navigate to the project folder
   ```bash
   cd Student-Performance-ML
+```
 3. Launch Jupyter Notebook
   ```bash
   jupyter notebook Student_Performance.ipynb
